@@ -107,10 +107,10 @@ Fields include:
 
 ## Screenshots
 
-`/home_page.png`
-`/Executive_summary.png`
-`/Team_Performance.png`
-`/SLA_Quality_Analysis.png`
+![Dashboard Screenshot](home_page.png)
+![Dashboard Screenshot](Executive_summary.png)
+![Dashboard Screenshot](Team_Performance.png)
+![Dashboard Screenshot](SLA_Quality_Analysis.png)
 
 ---
 
